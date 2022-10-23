@@ -1,3 +1,4 @@
-# Medium-Demo!
+# Medium-Demo
 
-[Uploading Medium.png…]()
+
+![Uploading Medium.png…]()
